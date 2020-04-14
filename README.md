@@ -9,4 +9,5 @@ I will place updates here:
 Thinks im working on:
   - User input TC FPS.
   - Small tutorial how to use the tool.
-  - User input reaper time format
+  - User input reaper time format.
+  - Any features you want to see sent me an email at djdimi043@gmail.com .
