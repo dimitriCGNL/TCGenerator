@@ -3,6 +3,13 @@ http://tcgenerator.epizy.com/
 
 This is the Github repository for the Reaper time marker to MA timecode converter (TC generator) project.
 
+## Features
+- converting reaper time markers to cuelist.
+- converting reaper time markers to GrandMa 2 Timecode timestaps with link to cuelist.
+- user definable trigger mode.
+- user definable timecode framerate.
+- user definable default fadetime for cuelist.
+
 ## To-do
   - User input TC FPS. (FINISHED)
   - Small tutorial how to use the tool.
