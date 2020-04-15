@@ -13,7 +13,7 @@ This is the Github repository for the Reaper time marker to MA timecode converte
 ## To-do
   - User input TC FPS. (FINISHED)
   - Small tutorial how to use the tool.
-  - User input reaper time format.
+  - User definable reaper time format.
   - Standalone version thats not bound to a webserver. (If anyone can help with this send me an [email](mailto:djdimi043@gmail.com))
   - Any features you want to see, sent me an [email](mailto:djdimi043@gmail.com).
 
