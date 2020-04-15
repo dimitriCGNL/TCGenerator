@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.0.0/MA.xs" stream_vers="0" major_vers="3" minor_vers="0" xmlns="http://schemas.malighting.de/grandma2/xml/MA">
+  <Info showfile="ffp" datetime="2014-11-04T13:36:00" xmlns="" />
+  <Macro name="Reaper timemarkers to GMA2 TC timeline" xmlns="">
+    <Macroline index="1">
+      <text>Delete Timecode 1 /nc</text>
+    </Macroline>
