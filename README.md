@@ -11,5 +11,5 @@ Thinks im working on:
   - User input TC FPS. (FINISHED)
   - Small tutorial how to use the tool.
   - User input reaper time format.
-  - Standalone version thats not bound to a webserver.
+  - Standalone version thats not bound to a webserver. (If anyone can help with this shoot me an email)
   - Any features you want to see sent me an email at djdimi043@gmail.com .
