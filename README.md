@@ -24,7 +24,7 @@ This is the Github repository for the Reaper time marker to MA timecode converte
   - Any features you want to see, sent me an [email](mailto:djdimi043@gmail.com).
 
 ## Changelog
-### 1.0.1 - 15-04-2020
+### 1.0.1 - 16-04-2020
 - Tutorial added to github repository.
 ### 1.0.0 - 15-04-2020
 - [Website live!](http://tcgenerator.epizy.com/)
