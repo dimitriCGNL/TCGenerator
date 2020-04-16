@@ -7,7 +7,7 @@ This is the Github repository for the Reaper time marker to MA timecode converte
 2. After setting all markers set the timeline format in reaper to seconds.
 ![like this](/img/reaperTimeLine.PNG)
 3. Export the markers to a CSV file.
-4. Upload the file on the site and follow the steps listed there.
+4. Upload the file to the site and follow the steps listed there.
 
 ## Features
 - Converting reaper time markers to cuelist.
