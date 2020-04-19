@@ -1,5 +1,6 @@
 # TCGenerator
 http://tcgenerator.epizy.com/
+[DOWNLOAD LINK](https://github.com/dimitriCGNL/TCGenerator/releases)
 
 This is the Github repository for the Reaper time marker to MA timecode converter (TC generator) project.
 ## Tutorial
