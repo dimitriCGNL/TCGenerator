@@ -20,14 +20,16 @@ This is the Github repository for the Reaper time marker to MA timecode converte
   - User input TC FPS. (FINISHED)
   - Small tutorial how to use the tool. (FINISHED)
   - User definable reaper time format.
-  - Standalone version thats not bound to a webserver. (If anyone can help with this send me an [email](mailto:djdimi043@gmail.com))
+  - Standalone version thats not bound to a webserver. (FINISHED)
   - User definable TC pool ID number.
   - User definable executor number for cuelist.
   - Any features you want to see, sent me an [email](mailto:djdimi043@gmail.com).
 
 ## Changelog
-### 1.0.1 - 16-04-2020
+### 1.0.0(exe) - 17-04-2020
+- Standalone tool finished.
+### 1.0.0(Web) - 16-04-2020
 - Tutorial added to github repository.
-### 1.0.0 - 15-04-2020
+### 1.0.0(Web) - 15-04-2020
 - [Website live!](http://tcgenerator.epizy.com/)
 - User-input TC FPS is now working.
